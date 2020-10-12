@@ -9,7 +9,7 @@
 			x.style.height='500px'
 			}
 			function over(x1){
-				x1.src="../week06/myimage.jpg";}
+				x1.src="../class/myimage.jpg";}
 			function out(x1){
-				x1.src="../week06/myimage2.jpg";
+				x1.src="../class/myimage2.jpg";
 			}
